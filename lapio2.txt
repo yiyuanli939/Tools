@@ -2,4 +2,4 @@ This is a change, once again.
 Here is a new line written in github that changes the file. 
 This is another new line adding from the Github. 
 This is the third line. It is added from the local. 
-Greetings from my local computer
+Greetings from my local computer and from Github.
